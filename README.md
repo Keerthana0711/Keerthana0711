@@ -1,4 +1,4 @@
-Hi, I’m Keerthana here👋🏼👋🏼
+# Hi, I’m Keerthana here👋🏼👋🏼
 
 I'm a second year student pursuing B.Tech in Computer Science at Vellore Institute of Technology, Chennai. Exploring varoius technologies out there.
 Honing my skills in C++/C, Python, HTML, CSS, JS, Bootstrap and SQL/SQLite3.
